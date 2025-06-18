@@ -1,0 +1,6 @@
+[submodule "eco-map.frontend"]
+	path = eco-map.frontend
+	url = https://github.com/Ivnmendes/eco-map.frontend.git
+[submodule "eco-map.backend"]
+	path = eco-map.backend
+	url = https://github.com/Ivnmendes/eco-map.backend.git
